@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by safon on 27.06.2017.
+ * Created by safontev on 27.06.2017.
  */
 public class Sorter {
     public static void main(String[] args) throws IOException {
